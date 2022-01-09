@@ -1,0 +1,22 @@
+
+/*
+    File is a collection of data stored in one unit,
+        identified by aa filename
+    Reading from / writing to an eternal file programitacally is
+        file handeling
+    The data stored in the variables of a programs will be lost once,
+        the program is terminated ( Because they are stored in RAM,
+            which is volatile memory)
+
+    1) Text file (characters)
+    2) Binary file (in the form os bytes Non human readable format)
+*/
+/*
+The operations that you can perform on a File in C are −
+Creating a new file
+Opening an existing file
+Reading data from an existing file
+Writing data to a file
+Deleting the file
+Closing the file
+*/
